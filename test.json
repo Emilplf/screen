@@ -7,17 +7,17 @@
   "websites": [
     {
       "url": "https://erlectionede.dk",
-      "duration": 8,
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
+      "url": "https://erdetorsdag.dk",
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     }
   ]
